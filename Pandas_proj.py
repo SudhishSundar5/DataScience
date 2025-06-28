@@ -1,2 +1,2 @@
-print("Hello from GitHub!")
+print("Hello from your mom")
 
